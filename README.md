@@ -10,6 +10,6 @@
 </div>
   
 <div style="display: inline_block"><br>
- src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+ <img align="right" alt="Charizard" height="150" style="border-radius:50px;"  src="https://discordapp.com/channels/611961221410979840/697199469904527452/1001949030051483758">
 </div>
   
